@@ -1,7 +1,8 @@
 # predict-defaulters-using-decision-tree
 This case study aims to give us an idea of applying EDA in a real business scenario. In this case study, apart from applying the techniques that we have learnt in the EDA module, we will also develop a basic understanding of risk analytics in banking and financial services and understand how data is used to minimize the risk of losing money while lending to customers.
 
-Business Understanding
+Business Understanding:-
+
 The loan providing companies find it hard to give loans to the people due to their insufficient or non-existent credit history. Because of that, some consumers use it as their advantage by becoming a defaulter. Suppose you work for a consumer finance company which specialises in lending various types of loans to urban customers. You have to use EDA to analyse the patterns present in the data. This will ensure that the applicants are capable of repaying the loan are not rejected.
 
 When the company receives a loan application, the company has to decide for loan approval based on the applicant’s profile. Two types of risks are associated with the bank’s decision:
@@ -30,12 +31,14 @@ The company had rejected the loan (because the client does not meet their requir
 Unused offer:
 Loan has been cancelled by the client but on different stages of the process.
 
-Business Objectives
+Business Objectives:-
+
 The case study aims to identify patterns which indicate if a client has difficulty paying their installments which may be used for taking actions such as denying the loan, reducing the amount of loan, lending (to risky applicants) at a higher interest rate, etc. This will ensure that the consumers capable of repaying the loan are not rejected. Identification of such applicants using EDA is the aim of this case study.
 
 In other words, the company wants to understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators of default. The company can utilise this knowledge for its portfolio and risk assessment.
 
-Data Understanding
+Data Understanding:-
+
 1. 'application_data.csv'
 It contains all the information of the client at the time of application. The data is about whether a client has payment difficulties.
 
